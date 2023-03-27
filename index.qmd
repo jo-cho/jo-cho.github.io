@@ -1,0 +1,36 @@
+---
+title: "Cheonghyo Cho | 조정효"
+subtitle: "I'm a data analyst and an AI researcher. I'm interested in using machine learning/deep learning models for financial economics. And as you can see on my MIR(music information retrieval) blog, I am a music lover."
+---
+
+## Education
+
+#### **Sogang University**, Seoul
+
+M.A. in Graduate School of Economics (8/2020-8/2022)
+
+*\@* *AIFinLab* (Advisor: Chae-Shick Chung)
+
+-   Enhancing investment strategies using ML
+
+-   Financial feature analysis using ML
+
+#### **Sogang University**, Seoul
+
+B.A. in School of Economics (3/2014-8/2020)
+
+## Experience
+
+#### **Qraft Technologies Inc.**, Seoul
+
+*AI Research Intern in Alpha Trading Team* (9/2022 - 12/2022)
+
+-   Statistical arbitrage trading strategies
+
+#### **Industry-University cooperation (FNGuide & Sogang University)**, Seoul
+
+*AI Researcher* (10/2021 - 4/2022)
+
+-   Stock momentum prediction with financial market data
+
+## Publication

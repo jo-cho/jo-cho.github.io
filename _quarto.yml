@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Cheonghyo Cho"
+  site-url: https://jo-cho.github.io/
+  repo-url: https://github.com/jo-cho/jo-cho.github.io
+  repo-actions: [issue]
+  navbar:
+    right: 
+      - text: MIRBlog
+        href: https://jo-cho.github.io/MIRBlog/
+      - icon: github
+        href: https://github.com/jo-cho/
+        
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    fontsize: 1.1em
+
+editor: visual
+

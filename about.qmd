@@ -1,0 +1,12 @@
+---
+title: "About Me"
+subtitle: "Cheonghyo Cho | 조정효"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: My Github
+      href: https://github.com/jo-cho
+---
+
+About
