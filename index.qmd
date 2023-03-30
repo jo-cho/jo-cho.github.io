@@ -1,7 +1,9 @@
 ---
 title: "Cheonghyo Cho | 조정효"
-subtitle: "I'm a data analyst and an AI researcher. I'm interested in using machine learning/deep learning models for financial economics. And as you can see on my MIR(music information retrieval) blog, I am a music lover."
+subtitle: "I'm a data analyst and an AI researcher. I'm interested in using machine learning/deep learning models for financial economics."
 ---
+
+# CV
 
 ## Education
 
@@ -9,11 +11,13 @@ subtitle: "I'm a data analyst and an AI researcher. I'm interested in using mach
 
 M.A. in Graduate School of Economics (8/2020-8/2022)
 
+*Thesis: Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction*
+
 *\@* *AIFinLab* (Advisor: Chae-Shick Chung)
 
--   Enhancing investment strategies using ML
+-   Enhancing investment strategy using meta-labeled classifier
 
--   Financial feature analysis using ML
+-   Financial features analysis
 
 #### **Sogang University**, Seoul
 
@@ -31,6 +35,8 @@ B.A. in School of Economics (3/2014-8/2020)
 
 *AI Researcher* (10/2021 - 4/2022)
 
--   Stock momentum prediction with financial market data
+-   The price momentum prediction with financial market data
 
 ## Publication
+
+*none yet*
