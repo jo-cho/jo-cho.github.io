@@ -9,6 +9,8 @@ website:
   repo-actions: [issue]
   navbar:
     right: 
+      - text: FinBlog
+        href: https://jo-cho.github.io/FinBlog/
       - text: MIRBlog
         href: https://jo-cho.github.io/MIRBlog/
       - icon: github
