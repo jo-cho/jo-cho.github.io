@@ -40,3 +40,12 @@ B.A. in School of Economics (3/2014-8/2020)
 ## Publication
 
 *none yet*
+
+## Blog, Github
+
+
+- [FinBlog](https://jo-cho.github.io/FinBlog/) (finance, economics)
+
+- [MIRBlog](https://jo-cho.github.io/MIRBlog/) (music processing)
+
+- [Github](https://github.com/jo-cho)
