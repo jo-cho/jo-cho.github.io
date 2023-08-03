@@ -1,16 +1,44 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cheonghyo Cho | 조정효",
+    "section": "",
+    "text": "M.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n@ AIFinLab (Advisor: Chae-Shick Chung)\n\n\n\nB.A. in School of Economics (3/2014-8/2020)\n\n\n\n\n\n\nResearch Associate, Division of Economic Data Analysis (5/2023 - )\n\n\n\nAI Research Intern, Alpha Trading (9/2022 - 12/2022)\n\n\n\nAI Researcher (10/2021 - 4/2022)\n\n\n\n\nnone yet\n\n\n\n\nFinBlog (finance, economics)\nMIRBlog (music processing)\nGithub"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Cheonghyo Cho | 조정효",
+    "section": "",
+    "text": "M.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n@ AIFinLab (Advisor: Chae-Shick Chung)\n\n\n\nB.A. in School of Economics (3/2014-8/2020)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Cheonghyo Cho | 조정효",
+    "section": "",
+    "text": "Research Associate, Division of Economic Data Analysis (5/2023 - )\n\n\n\nAI Research Intern, Alpha Trading (9/2022 - 12/2022)\n\n\n\nAI Researcher (10/2021 - 4/2022)"
+  },
+  {
+    "objectID": "index.html#publication",
+    "href": "index.html#publication",
+    "title": "Cheonghyo Cho | 조정효",
+    "section": "",
+    "text": "none yet"
+  },
+  {
+    "objectID": "index.html#blog-github",
+    "href": "index.html#blog-github",
+    "title": "Cheonghyo Cho | 조정효",
+    "section": "",
+    "text": "FinBlog (finance, economics)\nMIRBlog (music processing)\nGithub"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
     "text": "About"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cheonghyo Cho | 조정효",
-    "section": "",
-    "text": "M.A. in Graduate School of Economics (8/2020-8/2022)\nThesis: Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction\n@ AIFinLab (Advisor: Chae-Shick Chung)\n\nEnhancing investment strategy using meta-labeled classifier\nFinancial features analysis\n\n\n\n\nB.A. in School of Economics (3/2014-8/2020)\n\n\n\n\n\n\nAI Research Intern in Alpha Trading Team (9/2022 - 12/2022)\n\nStatistical arbitrage trading strategies\n\n\n\n\nAI Researcher (10/2021 - 4/2022)\n\nThe price momentum prediction with financial market data\n\n\n\n\n\nnone yet\n\n\n\n\nFinBlog (finance, economics)\nMIRBlog (music processing)\nGithub"
   }
 ]
