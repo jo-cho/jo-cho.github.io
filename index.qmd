@@ -9,7 +9,7 @@ subtitle: "I'm a data analyst and an AI researcher. I'm interested in using mach
 
 #### **Sogang University**, Seoul
 
-*M.A. in Graduate School of Economics (8/2020-8/2022)*
+M.A. in Graduate School of Economics *(8/2020-8/2022)*
 
 -   Thesis: *"Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction"*
 
@@ -17,7 +17,7 @@ subtitle: "I'm a data analyst and an AI researcher. I'm interested in using mach
 
 #### **Sogang University**, Seoul
 
-*B.A. in School of Economics (3/2014-8/2020)*
+B.A. in School of Economics *(3/2014-8/2020)*
 
 ## Experience
 
