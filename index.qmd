@@ -9,29 +9,29 @@ subtitle: "I'm a data analyst and an AI researcher. I'm interested in using mach
 
 #### **Sogang University**, Seoul
 
-M.A. in Graduate School of Economics (8/2020-8/2022)
+*M.A. in Graduate School of Economics (8/2020-8/2022)*
 
 -   Thesis: *"Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction"*
 
-*\@* *AIFinLab* (Advisor: Chae-Shick Chung)
+*Researcher \@ AIFinLab*
 
 #### **Sogang University**, Seoul
 
-B.A. in School of Economics (3/2014-8/2020)
+*B.A. in School of Economics (3/2014-8/2020)*
 
 ## Experience
 
 #### **Korea Development Institute**, Sejong
 
-Research Associate, Division of Economic Data Analysis (5/2023 - )
+*Research Associate - Division of Economic Data Analysis (5/2023 - )*
 
 #### **Qraft Technologies Inc.**, Seoul
 
-AI Research Intern, Alpha Trading (9/2022 - 12/2022)
+*AI Research Intern - Alpha Trading Team (9/2022 - 12/2022)*
 
-#### **FNGuide & Sogang University(Industry-University Cooperation)**, Seoul
+#### **FNGuide-Sogang University(Industry-University Cooperation)**, Seoul
 
-AI Researcher (10/2021 - 4/2022)
+*Researcher - AI Team(10/2021 - 4/2022)*
 
 ## Publication
 
