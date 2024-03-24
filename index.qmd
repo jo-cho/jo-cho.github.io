@@ -1,6 +1,6 @@
 ---
 title: "Cheonghyo Cho | 조정효"
-subtitle: "I'm a data analyst and an AI researcher. I'm interested in using machine learning/deep learning models for financial economics."
+subtitle: "I'm interested in machine learning/deep learning, music processing, and economics. "
 ---
 
 # CV
@@ -13,8 +13,6 @@ M.A. in Graduate School of Economics *(8/2020-8/2022)*
 
 -   Thesis: *"Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction"*
 
-*Researcher \@ AIFinLab*
-
 #### **Sogang University**, Seoul
 
 B.A. in School of Economics *(3/2014-8/2020)*
@@ -23,15 +21,20 @@ B.A. in School of Economics *(3/2014-8/2020)*
 
 #### **Korea Development Institute**, Sejong
 
-*Research Associate - Division of Economic Data Analysis (5/2023 - )*
+*Research Associate* - Division of Economic Data Analysis *(5/2023 - )*
 
 #### **Qraft Technologies Inc.**, Seoul
 
-*AI Research Intern - Alpha Trading Team (9/2022 - 12/2022)*
+*AI Research Intern* - Alpha Trading Team *(9/2022 - 12/2022)*
 
-#### **FNGuide-Sogang University(Industry-University Cooperation)**, Seoul
+#### **Sogang University**, Seoul
+*Researcher* - AI FinLab *(8/2020-8/2022)*
 
-*Researcher - AI Team(10/2021 - 4/2022)*
+*Researcher* - FNGuide(Industry-University Cooperation) *(10/2021 - 4/2022)*
+
+*Editorial Assistant* - Journal of Economic Theory and Econometrics *(8/2021-2/2022)*
+
+*Teaching Assistant (for macroeconomics, monetary policy, etc.) (8/2020-8/2022)*
 
 ## Publication
 
@@ -39,8 +42,10 @@ B.A. in School of Economics *(3/2014-8/2020)*
 
 ## Blog, Github
 
+-   [Github profile](https://github.com/jo-cho)
+
 -   [FinBlog](https://jo-cho.github.io/FinBlog/) (finance, economics)
 
 -   [MIRBlog](https://jo-cho.github.io/MIRBlog/) (music processing)
 
--   [Github](https://github.com/jo-cho)
+
