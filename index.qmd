@@ -1,7 +1,9 @@
 ---
 title: "Cheonghyo Cho | 조정효"
-subtitle: "I'm interested in machine learning/deep learning, music processing, and economics. "
+subtitle: "I'm interested in using machine learning/deep learning for financial economics. "
 ---
+
+[My Github](https://github.com/jo-cho)
 
 # CV
 
@@ -40,9 +42,7 @@ B.A. in School of Economics *(3/2014-8/2020)*
 
 *none yet*
 
-## Blog, Github
-
--   [Github profile](https://github.com/jo-cho)
+## Blog
 
 -   [FinBlog](https://jo-cho.github.io/FinBlog/) (finance, economics)
 
