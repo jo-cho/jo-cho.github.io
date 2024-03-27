@@ -1,11 +1,10 @@
 ---
 title: "Cheonghyo Cho | 조정효"
-subtitle: "I'm interested in using machine learning/deep learning for financial economics. "
+subtitle: "I'm interested in data science, artifical intelligence,  economics, and music. "
 ---
 
-[My Github](https://github.com/jo-cho)
+[My Github Page](https://github.com/jo-cho)
 
-# CV
 
 ## Education
 
@@ -18,6 +17,8 @@ M.A. in Graduate School of Economics *(8/2020-8/2022)*
 #### **Sogang University**, Seoul
 
 B.A. in School of Economics *(3/2014-8/2020)*
+
+- Graduated with Honors (Summa Cum Laude)
 
 ## Experience
 
@@ -44,8 +45,15 @@ B.A. in School of Economics *(3/2014-8/2020)*
 
 ## Blog
 
--   [FinBlog](https://jo-cho.github.io/FinBlog/) (finance, economics)
+-   [FinBlog](https://jo-cho.github.io/FinBlog/) (ML, finance, economics)
 
 -   [MIRBlog](https://jo-cho.github.io/MIRBlog/) (music processing)
+
+## Skills & Certificate
+
+- Python, Korean, English
+
+- 빅데이터분석기사, SQLD
+
 
 

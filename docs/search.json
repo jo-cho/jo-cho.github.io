@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Cheonghyo Cho | 조정효",
     "section": "",
-    "text": "My Github"
+    "text": "My Github Page"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Cheonghyo Cho | 조정효",
     "section": "Education",
-    "text": "Education\n\nSogang University, Seoul\nM.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n\n\nSogang University, Seoul\nB.A. in School of Economics (3/2014-8/2020)"
+    "text": "Education\n\nSogang University, Seoul\nM.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n\n\nSogang University, Seoul\nB.A. in School of Economics (3/2014-8/2020)\n\nGraduated with Honors (Summa Cum Laude)"
   },
   {
     "objectID": "index.html#experience",
@@ -39,6 +39,13 @@
     "href": "index.html#blog",
     "title": "Cheonghyo Cho | 조정효",
     "section": "Blog",
-    "text": "Blog\n\nFinBlog (finance, economics)\nMIRBlog (music processing)"
+    "text": "Blog\n\nFinBlog (ML, finance, economics)\nMIRBlog (music processing)"
+  },
+  {
+    "objectID": "index.html#skills-certificate",
+    "href": "index.html#skills-certificate",
+    "title": "Cheonghyo Cho | 조정효",
+    "section": "Skills & Certificate",
+    "text": "Skills & Certificate\n\nPython, Korean, English\n빅데이터분석기사, SQLD"
   }
 ]
