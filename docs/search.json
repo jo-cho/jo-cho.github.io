@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jo-cho",
+    "section": "",
+    "text": "My Github Page\nCV"
+  },
+  {
+    "objectID": "index.html#blogs",
+    "href": "index.html#blogs",
+    "title": "jo-cho",
+    "section": "Blogs",
+    "text": "Blogs\n\nFinBlog (ML, finance, economics) *in Korean\nMIRBlog (music processing) *in Korean"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -7,43 +21,36 @@
     "text": "About"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "Cheonghyo Cho | 조정효",
     "section": "",
-    "text": "My Github Page"
+    "text": "M.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n\n\n\nB.A. in School of Economics (3/2014-8/2020)\n\nGraduated with Honors (Summa Cum Laude)"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
     "title": "Cheonghyo Cho | 조정효",
-    "section": "Education",
-    "text": "Education\n\nSogang University, Seoul\nM.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n\n\nSogang University, Seoul\nB.A. in School of Economics (3/2014-8/2020)\n\nGraduated with Honors (Summa Cum Laude)"
+    "section": "",
+    "text": "M.A. in Graduate School of Economics (8/2020-8/2022)\n\nThesis: “Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction”\n\n\n\n\nB.A. in School of Economics (3/2014-8/2020)\n\nGraduated with Honors (Summa Cum Laude)"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
     "title": "Cheonghyo Cho | 조정효",
     "section": "Experience",
     "text": "Experience\n\nKorea Development Institute, Sejong\nResearch Associate - Division of Economic Data Analysis (5/2023 - )\n\n\nQraft Technologies Inc., Seoul\nAI Research Intern - Alpha Trading Team (9/2022 - 12/2022)\n\n\nSogang University, Seoul\nResearcher - AI FinLab (8/2020-8/2022)\nResearcher - FNGuide(Industry-University Cooperation) (10/2021 - 4/2022)\nEditorial Assistant - Journal of Economic Theory and Econometrics (8/2021-2/2022)\nTeaching Assistant (for macroeconomics, monetary policy, etc.) (8/2020-8/2022)"
   },
   {
-    "objectID": "index.html#publication",
-    "href": "index.html#publication",
+    "objectID": "cv.html#publication",
+    "href": "cv.html#publication",
     "title": "Cheonghyo Cho | 조정효",
     "section": "Publication",
     "text": "Publication\nnone yet"
   },
   {
-    "objectID": "index.html#blog",
-    "href": "index.html#blog",
-    "title": "Cheonghyo Cho | 조정효",
-    "section": "Blog",
-    "text": "Blog\n\nFinBlog (ML, finance, economics)\nMIRBlog (music processing)"
-  },
-  {
-    "objectID": "index.html#skills-certificate",
-    "href": "index.html#skills-certificate",
+    "objectID": "cv.html#skills-certificate",
+    "href": "cv.html#skills-certificate",
     "title": "Cheonghyo Cho | 조정효",
     "section": "Skills & Certificate",
     "text": "Skills & Certificate\n\nPython, Korean, English\n빅데이터분석기사, SQLD"

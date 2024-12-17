@@ -1,59 +1,14 @@
 ---
-title: "Cheonghyo Cho | 조정효"
+title: "jo-cho"
 subtitle: "I'm interested in data science, artifical intelligence,  economics, and music. "
 ---
 
 [My Github Page](https://github.com/jo-cho)
 
+[CV](cv.qmd)
 
-## Education
+## Blogs
 
-#### **Sogang University**, Seoul
+-   [FinBlog](https://jo-cho.github.io/FinBlog/) (ML, finance, economics) \*in Korean
 
-M.A. in Graduate School of Economics *(8/2020-8/2022)*
-
--   Thesis: *"Random Forest-Based Clustered Variable Importance Analysis for Predicting KOSPI Direction"*
-
-#### **Sogang University**, Seoul
-
-B.A. in School of Economics *(3/2014-8/2020)*
-
-- Graduated with Honors (Summa Cum Laude)
-
-## Experience
-
-#### **Korea Development Institute**, Sejong
-
-*Research Associate* - Division of Economic Data Analysis *(5/2023 - )*
-
-#### **Qraft Technologies Inc.**, Seoul
-
-*AI Research Intern* - Alpha Trading Team *(9/2022 - 12/2022)*
-
-#### **Sogang University**, Seoul
-*Researcher* - AI FinLab *(8/2020-8/2022)*
-
-*Researcher* - FNGuide(Industry-University Cooperation) *(10/2021 - 4/2022)*
-
-*Editorial Assistant* - Journal of Economic Theory and Econometrics *(8/2021-2/2022)*
-
-*Teaching Assistant (for macroeconomics, monetary policy, etc.) (8/2020-8/2022)*
-
-## Publication
-
-*none yet*
-
-## Blog
-
--   [FinBlog](https://jo-cho.github.io/FinBlog/) (ML, finance, economics)
-
--   [MIRBlog](https://jo-cho.github.io/MIRBlog/) (music processing)
-
-## Skills & Certificate
-
-- Python, Korean, English
-
-- 빅데이터분석기사, SQLD
-
-
-
+-   [MIRBlog](https://jo-cho.github.io/MIRBlog/) (music processing) \*in Korean

@@ -3,12 +3,14 @@ project:
   output-dir: docs
   
 website:
-  title: "Cheonghyo Cho"
-  site-url: https://jo-cho.github.io/
+  title: "jo-cho"
+  site-url: https://jo-cho.github.io
   repo-url: https://github.com/jo-cho/jo-cho.github.io
   repo-actions: [issue]
   navbar:
-    right: 
+    right:
+      - text: CV
+        href: cv.qmd
       - text: FinBlog
         href: https://jo-cho.github.io/FinBlog/
       - text: MIRBlog
