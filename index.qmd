@@ -3,9 +3,11 @@ title: "jo-cho"
 subtitle: "I'm interested in data science, artifical intelligence,  economics, and music. "
 ---
 
-[My Github Page](https://github.com/jo-cho)
+[Github Page](https://github.com/jo-cho)
 
 [CV](cv.qmd)
+
+- e-mail: jhcho1016 at naver.com
 
 ## Blogs
 
