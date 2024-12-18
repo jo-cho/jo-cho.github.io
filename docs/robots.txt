@@ -3,4 +3,4 @@ Disallow: /cv.html
 
 Sitemap: https://jo-cho.github.io/sitemap.xml
 Sitemap: https://jo-cho.github.io/FinBlog/sitemap.xml
-Sitemap: https://jo-cho.github.io/MirBlog/sitemap.xml
+Sitemap: https://jo-cho.github.io/MIRBlog/sitemap.xml
