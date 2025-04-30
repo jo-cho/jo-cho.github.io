@@ -1,13 +1,13 @@
 ---
 title: "jo-cho"
-subtitle: "I'm interested in data science, artifical intelligence,  economics, and music. "
+subtitle: "I'm interested in natural language processing, nowcasting, macroeconomics, financial economics and music. "
 ---
 
 [Github Page](https://github.com/jo-cho)
 
 [CV](cv.qmd)
 
-- e-mail: jhcho1016 at naver.com
+-   e-mail: jhcho1016 at naver.com
 
 ## Blogs
 
